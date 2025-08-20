@@ -1,0 +1,47 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:CP_Elec_4x5.4'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'D1:SamacSys_Parts:POWERDI123'.
+Info: Processing symbol 'U1:RF_Module:ESP32-S3-WROOM-1'.
+Info: Processing symbol 'D2:SamacSys_Parts:POWERDI123'.
+Info: Processing symbol 'U2:PCM_Package_TO_SOT_SMD_AKL:TO-252-2'.
+Info: Processing symbol 'IC1:PCM_Package_TO_SOT_SMD_AKL:SOT-23-6'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:SamacSys_Parts:RJE392886410'.
+Info: Processing symbol 'U3:SamacSys_Parts:SOIC127P600X175-8N'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'P1:SamacSys_Parts:USB4145030070C'.
+Info: Processing symbol 'R5:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R13:SamacSys_Parts:RESC3116X65N'.
+Info: Processing symbol 'R14:SamacSys_Parts:RESC3116X65N'.
+Info: Processing symbol 'RESET1:Button_Switch_SMD:SW_SPST_PTS645'.
+Info: Processing symbol 'T1:SamacSys_Parts:1702610'.
+Info: Processing symbol 'T2:SamacSys_Parts:1702610'.
+Info: Processing symbol 'Termination1:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical_SMD'.
+Error: Cannot add D1 (footprint 'SamacSys_Parts:POWERDI123' not found).
+Error: Cannot add D2 (footprint 'SamacSys_Parts:POWERDI123' not found).
+Error: Cannot add J2 (footprint 'SamacSys_Parts:RJE392886410' not found).
+Error: Cannot add T2 (footprint 'SamacSys_Parts:1702610' not found).
+Error: Cannot add R13 (footprint 'SamacSys_Parts:RESC3116X65N' not found).
+Error: Cannot add P1 (footprint 'SamacSys_Parts:USB4145030070C' not found).
+Error: Cannot add T1 (footprint 'SamacSys_Parts:1702610' not found).
+Error: Cannot add R14 (footprint 'SamacSys_Parts:RESC3116X65N' not found).
+Error: Cannot add U3 (footprint 'SamacSys_Parts:SOIC127P600X175-8N' not found).
+
+
+Info: Total warnings: 0, errors: 9.
